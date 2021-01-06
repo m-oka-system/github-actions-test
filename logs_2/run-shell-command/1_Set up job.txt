@@ -1,0 +1,13 @@
+2021-01-05T13:49:00.2668847Z Current runner version: '2.275.1'
+2021-01-05T13:49:00.2698504Z ##[group]Operating System
+2021-01-05T13:49:00.2699349Z Ubuntu
+2021-01-05T13:49:00.2699734Z 18.04.5
+2021-01-05T13:49:00.2700101Z LTS
+2021-01-05T13:49:00.2700454Z ##[endgroup]
+2021-01-05T13:49:00.2700880Z ##[group]Virtual Environment
+2021-01-05T13:49:00.2701493Z Environment: ubuntu-18.04
+2021-01-05T13:49:00.2701922Z Version: 20201210.0
+2021-01-05T13:49:00.2702769Z Included Software: https://github.com/actions/virtual-environments/blob/ubuntu18/20201210.0/images/linux/Ubuntu1804-README.md
+2021-01-05T13:49:00.2703563Z ##[endgroup]
+2021-01-05T13:49:00.2706749Z Prepare workflow directory
+2021-01-05T13:49:00.3317475Z Prepare all required actions

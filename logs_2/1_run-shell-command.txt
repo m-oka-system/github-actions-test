@@ -1,0 +1,8 @@
+2021-01-05T13:48:51.1825752Z ##[section]Starting: Prepare job run-shell-command
+2021-01-05T13:48:51.1941070Z Evaluating strategy
+2021-01-05T13:48:51.1941348Z Creating job '__default'
+2021-01-05T13:48:51.1941703Z Evaluating timeout
+2021-01-05T13:48:51.1941787Z Evaluating cancel timeout
+2021-01-05T13:48:51.1941895Z Evaluating continue on error
+2021-01-05T13:48:51.1941991Z Evaluating target
+2021-01-05T13:48:51.1993637Z ##[section]Finishing: Prepare job run-shell-command

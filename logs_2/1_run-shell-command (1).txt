@@ -1,0 +1,31 @@
+2021-01-05T13:48:51.6367159Z ##[section]Starting: Request a runner to run this job
+2021-01-05T13:48:51.9020737Z Can't find any online and idle self-hosted runner in current repository that matches the required labels: 'ubuntu-latest'
+2021-01-05T13:48:51.9020853Z Can't find any online and idle self-hosted runner in current repository's account/organization that matches the required labels: 'ubuntu-latest'
+2021-01-05T13:48:51.9021269Z Found online and idle hosted runner in current repository's account/organization that matches the required labels: 'ubuntu-latest'
+2021-01-05T13:48:52.0349680Z ##[section]Finishing: Request a runner to run this job
+2021-01-05T13:49:00.2669362Z Current runner version: '2.275.1'
+2021-01-05T13:49:00.2698535Z ##[group]Operating System
+2021-01-05T13:49:00.2699361Z Ubuntu
+2021-01-05T13:49:00.2699741Z 18.04.5
+2021-01-05T13:49:00.2700107Z LTS
+2021-01-05T13:49:00.2700460Z ##[endgroup]
+2021-01-05T13:49:00.2700931Z ##[group]Virtual Environment
+2021-01-05T13:49:00.2701500Z Environment: ubuntu-18.04
+2021-01-05T13:49:00.2701927Z Version: 20201210.0
+2021-01-05T13:49:00.2702776Z Included Software: https://github.com/actions/virtual-environments/blob/ubuntu18/20201210.0/images/linux/Ubuntu1804-README.md
+2021-01-05T13:49:00.2703569Z ##[endgroup]
+2021-01-05T13:49:00.2706775Z Prepare workflow directory
+2021-01-05T13:49:00.3317513Z Prepare all required actions
+2021-01-05T13:49:00.4107546Z ##[group]Run echo "Hellow World"
+2021-01-05T13:49:00.4108424Z [36;1mecho "Hellow World"[0m
+2021-01-05T13:49:00.4891277Z shell: /bin/bash -e {0}
+2021-01-05T13:49:00.4891852Z ##[endgroup]
+2021-01-05T13:49:01.4370245Z Hellow World
+2021-01-05T13:49:01.4433611Z ##[group]Run node -v
+2021-01-05T13:49:01.4434176Z [36;1mnode -v[0m
+2021-01-05T13:49:01.4434530Z [36;1mnpm -v[0m
+2021-01-05T13:49:01.4469937Z shell: /bin/bash -e {0}
+2021-01-05T13:49:01.4470399Z ##[endgroup]
+2021-01-05T13:49:02.1392826Z v14.15.1
+2021-01-05T13:49:02.1393895Z 6.14.9
+2021-01-05T13:49:02.1410879Z Cleaning up orphan processes
